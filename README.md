@@ -1,6 +1,13 @@
-# Arduino Valve Controller with CAN Support
+# ESP32 Valve Controller with CAN Support
 
 This project utilizes an Arduino to control a valve based on data received over a CAN bus and input from a physical button. It's designed to operate in automatic or manual mode, responding to RPM data for cold start detection and user inputs for direct valve control.
+
+
+
+https://github.com/kamiladas/ValveController/assets/58427794/a83873bd-07bc-46c3-acfe-902b930ee5a3
+
+
+
 
 ## Features
 
