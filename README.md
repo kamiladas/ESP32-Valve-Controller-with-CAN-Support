@@ -4,7 +4,9 @@ This project utilizes an Arduino to control a valve based on data received over 
 
 
 
-                                    ![video]https://github.com/kamiladas/ValveController/assets/58427794/a83873bd-07bc-46c3-acfe-902b930ee5a3
+
+
+                                   ![video](https://github.com/kamiladas/ValveController/assets/58427794/ba159315-df68-4268-9dae-5f5d4b82d522)
 
 
 
