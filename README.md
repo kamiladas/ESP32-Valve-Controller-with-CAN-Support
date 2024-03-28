@@ -6,7 +6,12 @@ This project utilizes an Arduino to control a valve based on data received over 
 
 
 
-                                   ![image](https://github.com/kamiladas/ValveController/assets/58427794/ba159315-df68-4268-9dae-5f5d4b82d522)
+<div align="center">
+  <img src="https://github.com/kamiladas/ValveController/assets/58427794/5c39d187-209d-4585-9756-0c752b703858" alt="ESP32 Valve Controller">
+</div>
+
+
+                            
 
 
 
