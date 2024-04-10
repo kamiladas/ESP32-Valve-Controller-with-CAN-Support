@@ -121,9 +121,7 @@ Feel free to adapt the code to suit your specific needs, such as adjusting RPM t
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your improvements.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
